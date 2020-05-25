@@ -1,0 +1,14 @@
+{
+  "name": "pintores",
+  "version": "1.0.0",
+  "description": "siti web estatico con espress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osmar Antonio Portillo Camargo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
