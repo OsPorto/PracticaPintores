@@ -1,0 +1,83 @@
+body {
+  background: url(https://vice-images.vice.com/images/content-images-crops/2016/05/10/fotografias-grafiti-arte-urbano-jeosm-body-image-1462867983-size_1000.jpg?output-quality=75) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+table button{
+ margin: 45px 5px;
+ 
+}
+ li button{
+  border: 2px solid rgb(197, 194, 189);
+  border-radius: 5px;
+  background-color:  rgb(197, 194, 189);
+}
+
+img{
+  border-radius: 0%;
+}
+div th{
+ margin: 50%;
+}
+li{
+  padding: 2px 10px;
+}
+ h1 b, h2 b{
+  font-size: 200%;
+}
+#submunicipios{
+  font-size: 300%;
+}
+#masinfo1,#masinfo2,#masinfo3,#masinfo4,#masinfo5,#masinfo6,#masinfo7,#masinfo8,#masinfo9,#masinfo10,#masinfo11,#masinfo12{
+  margin: 0px 380px;
+  width: 250px;
+}
+#correos{
+  font-size: 80%;
+}
+#masmun{
+  width: 250px;
+}
+hr{
+ background-color: white;
+}
+.otros{
+  border-radius: 4px;
+  margin: 0px 42px;
+  border: 2px solid rgb(153, 150, 146);
+  background-color: rgb(153, 150, 146);
+  color: white;
+}
+
+#esr{
+  background-color: rgb(39, 39, 39);
+}
+
+#cll{
+  position: relative; 
+  left: 500px;
+}
+
+#div1{
+  background-color: rgba(0, 0, 0, 0.342);
+}
+
+#hey{
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+#wow{
+  position: relative; 
+  left: 250px;
+}
+
+#corr{
+  background-color: rgba(0, 0, 0, 0.342);
+  width: 500px;
+  height: 300px;
+  position: relative; 
+  left: 250px;
+}
